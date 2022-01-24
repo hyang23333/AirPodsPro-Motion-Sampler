@@ -13,8 +13,8 @@ Code Examples of CMHeadphoneMotionManager in CoreMotion.
 
 ## How To Build
 Open ```AirPodsProMotion.xcodeproj``` on Xcode12 or later, then connect your iPhone or iPad to build it.  
-
- 
+As for more details, Yihan wrote a very organized tutorial.Here is the link:https://github.com/liyihann/CAirPods
+After exporting CSV file, you can find your files from: ```Files``` >>> ```AirPodsPro```. 
 ## Contents
  
  |  <center> Infomation View </center> |  <center>Rotate the Cube <br> By Head Motion </center> | <center>Table scrolling <br> By Head Motion </center> | <center> Export motion data to CSV </center>|  
